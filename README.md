@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Rati Mehra! 👋
+
+### 🚀 BCA Student | Full Stack Developer | National Finalist
+
+- 🎓 **Education:** Final year BCA Student at Bareilly College
+- 🏆 **Achievement:** National Finalist at **HyperSpace Innovation Hackathon** (Invited for the Offline National Finals with my team!)
+- 💻 **Tech Stack:** Python, Flask, Web Technologies (HTML/CSS/JS), and .NET Programming
+- 🛠️ **Projects:** Working on cool projects like **Presence Pulse** (Email Authenticity verification built for Ideate with IBM)
+
+📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/rati-mehra-635337344)## Hi there 👋
 
 <!--
 **Rati807/Rati807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
